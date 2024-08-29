@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+[Joseph Meagher]
 
 My github username is:
 
-[Your Username]
+[jomeaghe]
 
 BL-MSCH-C220
